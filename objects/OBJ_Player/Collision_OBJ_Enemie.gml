@@ -1,1 +1,0 @@
-lives = lives - 1
