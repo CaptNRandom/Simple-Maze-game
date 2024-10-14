@@ -1,0 +1,1 @@
+lives = lives - 1
